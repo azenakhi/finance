@@ -1,6 +1,6 @@
 # Tickers
 
-# AZE Value strategy portfolio
+## AZE Value strategy portfolio
 AAPL, ADBE, AVGO, MSFT, AMZN, NVDA, GOOGL, TSLA, GOOG, META, BRK.B, UNH, XOM, LLY, JPM, JNJ, V,
 PG, MA, HD, CVX, MRK, COST, WMT, PEP, CSCO, KO, CRM, ACN, TMO, PFE, MCD, LIN, BAC, CMCSA, ORCL, 
 ABT, NFLX, INTC, DIS, INTU, WFC, PM, DHR, AMGN, TXN, COP
